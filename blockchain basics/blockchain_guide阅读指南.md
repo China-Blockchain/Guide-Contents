@@ -1,4 +1,4 @@
-# blockchain_guide阅读指南
+# [blockchain_guide](https://github.com/China-Blockchain/blockchain_guide)阅读指南
 ## 目标
 * 理解区块链基本定义
 * 理解分布式核心问题，并由此认识共识算法
